@@ -1,0 +1,11 @@
+1) 
+2)hyper text modal lenguage
+3)PHP.- es el lenguaje de programacion con el cual diseñaremos nuestra pagina mientras que javascript son los mensajes o advertencias 
+que nos mostrara nuestra pagina.
+4) Los CSS son aquellos que nos permiten tener organisados lo que son todos nuestros estilos de nuestra pagina web, permitiendo asi tener un mejor 
+manejo de los mismo.
+5)Si no encontrara la solucion sin desintarar 
+6)
+7)que ambas nos dirigen a nuestro index predeterminado, nos muestra nuestra pagina web local.
+8)
+9)que no puede coincidir con con todas las caracteristicas o el diseño de todos los navegadores web. 
