@@ -1,0 +1,17 @@
+1) <? php
+?>
+
+2) ;
+3)$ para realizar las respectivas declaraciones
+4) nos permite almacenar caracteres, hacer cadenas, vectores, etc
+5) string a=10
+6) a)Verdadero
+   b)Falso
+7)++$j; significa que primero lee el numero 1 y luego suma mientras que $j++; coforme va incrmentando va leyendo.
+8)Con --FILE-- si podemos definir una variable en php
+9)si la variables se la declara fuera de las funciones que vamos a realizar esta se la declara al inicio, por lo cual se la puede 
+llammar.
+10) a) funcion_producto (vara *= varb){
+           return varc;
+         }
+    b)  funcion(valorb)
