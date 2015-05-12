@@ -1,0 +1,8 @@
+1)los valores para PHP son 0 y 1; donde 0 es para false y 1 va para true.
+2)depende de los operadores ah emplear para este caso por ejemplo son los parentesis
+3)se utiliza cuando se quiere tener valores especificos, de tal manera que podemos agruparlos y asi no tener resultados erroneos 
+de la funcion  a realizar.
+4)Se lo utiliza cuando no queremos que se nos acople la sentencia dada a los terminos mas apropiados, es para que mantenga su 
+caracter, porque si ponemos el de == nos acopla al de mejor termino igualdad.
+5)se lo puede hacer con una comparacion, pues con este si no cumple con lo que dice la sentencia pasara a la otra.
+6)el operador ternario es muy similar al if, y se lo puede de una manera mas simplificada 
