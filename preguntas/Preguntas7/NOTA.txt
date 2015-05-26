@@ -1,0 +1,6 @@
+0/10
+Falta el include();
+La funcion es Desplegar_tabla
+Revisar la declaración de los arreglos.
+Volviste a copiar el código que copiaste en el deber del 
+calendario?

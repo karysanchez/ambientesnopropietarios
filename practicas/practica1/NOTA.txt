@@ -1,0 +1,4 @@
+Nota: 7/10
+Las direcciones tienen que ser relativas no absolutas.
+La página aparece con fondo blanco debido a ese error.
+No existe nada de CSS o JS.

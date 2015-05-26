@@ -1,0 +1,34 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19/05/2015, 7:50:49
+    Author     : TOSH
+*/
+
+
+#calendar {
+			font-family:serif;
+			font-size:14px;
+                        
+		}
+
+		#calendar th {
+			background-color:coral;
+			color:antiquewhite;
+			width:40px;
+                        font-family: Georgia;
+                        font-style: italic;
+                        font-size: 16px;
+		}
+		#calendar td {
+			text-align:right;
+			padding:2px 5px;
+			background-color:seashell;
+		}
+		#calendar .diaact{
+			background-color:coral;
+                        font-weight:bold;
+		}
