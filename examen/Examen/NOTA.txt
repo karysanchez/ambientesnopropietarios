@@ -1,0 +1,21 @@
+2/10
+No existe ninguna estructura de un documento HTML bien formada.
+No se muestra ninguno de los formularios requeridos.
+
+index.php
+  validación de usuario parcialmente funcional
+  el if es con minúsculas no IF. PHP es case-sensitive
+  el elseif linea 31 no es correcto.
+  Se debe redirigir al inicio solo cuando la validación de usuario es correcta.
+  la declaración del arreglo es correcta, pero su utilización en el for es incorrecta.
+
+inicio.php
+  declaración de arreglos correcta.
+  en la linea 28 no es correcto utilizar el for
+  las notas y estudiantes nunca se envian por post simplemente se deberían leer desde los arreglos declarados y generar las respectivas tablas.
+
+config.php
+  sin contenido
+
+estilos.css
+  incorrecto
