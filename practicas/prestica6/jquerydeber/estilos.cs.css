@@ -1,0 +1,18 @@
+
+
+tr:nth-child(even) {
+    background: #DF1A31
+}
+tr:nth-child(odd) {
+    background: #15811A
+}
+
+
+
+.hide{
+    display: none;
+}
+
+
+
+
