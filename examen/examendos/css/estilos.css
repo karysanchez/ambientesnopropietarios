@@ -1,0 +1,49 @@
+#errorN{
+    position: absolute;
+    background: rosybrown;
+    padding: 10px;
+    border-radius: 30px;
+    width: 200px;
+    color: royalblue;
+    margin-left: -200px;
+    margin-top: -43px;
+}
+
+#errorUs{
+    position: absolute;
+    background: rosybrown;
+    padding: 10px;
+    border-radius: 30px;
+    width: 200px;
+    color: royalblue;
+    margin-left: -200px;
+    margin-top: -43px;
+}
+
+
+
+#errorC1{
+    position: absolute;
+    background: rosybrown;
+    padding: 10px;
+    border-radius: 30px;
+    width: 200px;
+    color: royalblue;
+    margin-left: -200px;
+    margin-top: -43px;
+}
+
+#errorC2{
+    position: absolute;
+    background: rosybrown;
+    padding: 10px;
+    border-radius: 30px;
+    width: 200px;
+    color: royalblue;
+    margin-left: -200px;
+    margin-top: -43px;
+}
+
+.error{
+    display: none;
+}
