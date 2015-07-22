@@ -46,7 +46,7 @@ if ($conn->connect_error)
                 <input type="password" id="inputPassword" class="form-control" placeholder="Password" required="">
 
                 <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
-                <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-lg">Rgistrar usuario</button>
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-lg">Registrar usuario</button>
 
             </form>
 
@@ -82,20 +82,20 @@ if ($conn->connect_error)
                                         <div class="form-group">
                                             <label for="otracontrasena">PONGA SU OTRA VEZ SU CONTRASEÑA</label>
                                             <input type="password" class="form-control"  name="otracontrasena" id="otracontrasena" placeholder="Otracontrasena" >
-                                            <div id="errorC2" class="error">Error ingrese de nuevo la contraseña</div>
+                                            <div id="errorC2" class="error">Error ingrese de nuevo una misma contraseña</div>
                                         </div>
 
 
 
                                     </center>
-                                    <input  type="submit" name="submit" class="btn btn-danger" value="crearusuario"/>
+                                    <input  type="submit" name="submit" id="btn" class="btn btn-danger" value="crearusuario"/>
                                 </form>
                             </div>
                         </div>
                     </div>
                     <div class="modal-footer">
                         <button type="button" id="close" class="btn btn-default" data-dismiss="modal">SERRAR</button>
-                        <input type="submit" id="save" name="guardar" class="btn btn-primary">
+
                     </div>
                 </div>
             </form>
